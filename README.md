@@ -1,5 +1,5 @@
 # Bruteforce-facebook
-this tool is brute force on facebook account by new method unlimit brute 3000 than more 
+this tool is brute force on facebook account by new method unlimit brute 1000 than block for 1 hour 
 # installation
 
 ❤ pkg install python
